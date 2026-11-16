@@ -19,4 +19,4 @@ streamlit run app.py
 ```
 
 ## Live app
-https://YOUR-APP-NAME.streamlit.app
+https://kidney-disease-app-wbhetyrmwmjxm6m5fjq7ni.streamlit.app/
